@@ -16,10 +16,10 @@ import mi7 from '../assets/HomePageAssets/mi7.webp';
 import productimage1 from '../assets/HomePageAssets/ProductImage1.jpg';
 import productimage2 from '../assets/HomePageAssets/ProductImage2.webp';
 import productimage3 from '../assets/HomePageAssets/ProductImage3.webp';
-import anarcvideo1 from '../assets/HomePageAssets/watchVideo.webm';
-import anarcvideo2 from '../assets/HomePageAssets/watchVideo2.webm';
-import anarcvideo3 from '../assets/HomePageAssets/watchVideo3.mp4';
-import anarcvideo4 from '../assets/HomePageAssets/watchVideo3.webm';
+import anarcvideo1 from '../assets/HomePageAssets/watchvideo.webm';
+import anarcvideo2 from '../assets/HomePageAssets/watchvideo1.webm';
+import anarcvideo3 from '../assets/HomePageAssets/watchvideo2.mp4';
+import anarcvideo4 from '../assets/HomePageAssets/watchvideo3.webm';
 import { useNavigate } from 'react-router-dom';
 
 const Home = () => {

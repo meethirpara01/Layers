@@ -1,0 +1,331 @@
+{
+    "leptopProduct": [
+    {
+      "id": 201,
+      "name": "Grafitti",
+      "price": 1192,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/macbook-air-15-m2-grafitti--top.jpg"
+    },
+    {
+      "id": 202,
+      "name": "Spaceboy",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-spaceboy--top.jpg"
+    },
+    {
+      "id": 203,
+      "name": "Magma",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-magma--top.webp"
+    },
+    {
+      "id": 204,
+      "name": "Wolfgang",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-wolfgang--top.jpg"
+    },
+    {
+      "id": 205,
+      "name": "Machina Hud",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-machina-hud--top.jpg"
+    },
+    {
+      "id": 206,
+      "name": "Florescence",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-florescence--top_0c0f4959-1588-49c9-8b64-d81b1bf2cc51.webp"
+    },
+    {
+      "id": 207,
+      "name": "Black Crack",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-black-crack--top.jpg"
+    },
+    {
+      "id": 208,
+      "name": "Golden Swirl",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/macbook-air-15-m2-golden-swirl--top.jpg"
+    },
+    {
+      "id": 209,
+      "name": "Concrete Rock",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-concrete-rock--top.jpg"
+    },
+    {
+      "id": 210,
+      "name": "Chaos",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Air 15-inch M2 Model A2941",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-air-15-m2-chaos--top.webp"
+    },
+    {
+      "id": 211,
+      "name": "Beige Camo Fluid Top",
+      "price": 1192,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-beige-camo-fluid--top.png"
+    },
+    {
+      "id": 212,
+      "name": "Astro Rainbow To",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-astro-rainbow--top.jpg"
+    },
+    {
+      "id": 213,
+      "name": "Ciudad Top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-ciudad--top.jpg"
+    },
+    {
+      "id": 214,
+      "name": "Cybermind Top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-cybermind--top.jpg"
+    },
+    {
+      "id": 215,
+      "name": "Empowher Top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-empowher--top.jpg"
+    },
+    {
+      "id": 216,
+      "name": "Grafitti Top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-grafitti--top.jpg"
+    },
+    {
+      "id": 217,
+      "name": "Grunge Concrete Wall Top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-grunge-concrete-wall--top.png"
+    },
+    {
+      "id": 218,
+      "name": "Magma Top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-magma--top.jpg"
+    },
+    {
+      "id": 219,
+      "name": "Sea dune top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-sea-dune--top.jpg"
+    },
+    {
+      "id": 220,
+      "name": "Chestnut Top",
+      "price": 1199,
+      "brand": "Mackbook",
+      "model": "Macbook Pro 14 Inch 2021 Model A2442",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/macbook-pro-14-inch-2021-chestnut--top.jpg"
+    },
+
+
+
+
+
+
+
+    {
+      "id": 211,
+      "name": "Grafitti",
+      "price": 1192,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/asus-vivobook-14-2019-grafitti--top.jpg"
+    },
+    {
+      "id": 212,
+      "name": "Spaceboy",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/asus-vivobook-14-2019-spaceboy--top.jpg"
+    },
+    {
+      "id": 213,
+      "name": "Magma",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/asus-vivobook-14-2019-magma--top.jpg"
+    },
+    {
+      "id": 214,
+      "name": "Wolfgang",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/asus-vivobook-14-2019-wolfgang--top.jpg"
+    },
+    {
+      "id": 215,
+      "name": "empowher",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/asus-vivobook-14-2019-empowher--top.jpg"
+    },
+    {
+      "id": 216,
+      "name": "golden swirl",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/asus-vivobook-14-2019-golden-swirl--top.jpg"
+    },
+    {
+      "id": 217,
+      "name": "florescence",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/asus-vivobook-14-2019-florescence--top.jpg"
+    },
+    {
+      "id": 218,
+      "name": "astro rainbow",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/asus-vivobook-14-2019-astro-rainbow--top.jpg"
+    },
+    {
+      "id": 219,
+      "name": "Chaos",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/asus-vivobook-14-2019-chaos--top.jpg"
+    },
+    {
+      "id": 220,
+      "name": "hellgate red",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "ASUS Vivobook 14 (X409FA-EK555T) 2019",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/asus-vivobook-14-2019-hellgate-red--top.jpg"
+    },
+    {
+      "id": 221,
+      "name": "Grafitti",
+      "price": 1192,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-grafitti--top.jpg"
+    },
+    {
+      "id": 222,
+      "name": "Spaceboy",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-spaceboy--top.jpg"
+    },
+    {
+      "id": 223,
+      "name": "Magma",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/dell-inspiron-15-7000-magma--top.jpg"
+    },
+    {
+      "id": 224,
+      "name": "Wolfgang",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-wolfgang--top.jpg"
+    },
+    {
+      "id": 225,
+      "name": "empowher",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-empowher--top.jpg"
+    },
+    {
+      "id": 226,
+      "name": "golden swirl",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-golden-swirl--top.jpg"
+    },
+    {
+      "id": 227,
+      "name": "florescence",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-florescence--top.jpg"
+    },
+    {
+      "id": 228,
+      "name": "astro rainbow",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-astro-rainbow--top.jpg"
+    },
+    {
+      "id": 229,
+      "name": "Chaos",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/dell-inspiron-15-7000-chaos--top.jpg"
+    },
+    {
+      "id": 220,
+      "name": "hellgate red",
+      "price": 1199,
+      "brand": "Windows",
+      "model": "Dell Inspiron 15 7000 (2017) Model P65F",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/dell-inspiron-15-7567-gaming-laptop-hellgate-red--top.jpg"
+    }
+  ]
+}

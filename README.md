@@ -1,0 +1,2 @@
+# Layers
+A frontend base web app built for a hackathon. Inspired by Tech Burner’s Layers Shop, this project showcases product categories (mobile skins, laptop skins, watch straps), detailed product views with brand/model filters, and a shopping cart with add/remove/quantity management. Includes Firebase‑based authentication, all built using React, Redux Toolkit, SCSS, and Framer Motion for smooth UI and animations.

@@ -1,0 +1,122 @@
+    .MS-list
+    {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+        width: 100%;
+        height: fit-content;
+        padding-top: 10rem;
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+        padding-bottom: 10rem;
+
+        .product
+        {
+            width: fit-content;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+
+            img 
+            {
+                width: 11rem;
+                border-radius: 0.5rem;
+            }
+
+            .content
+            {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                gap: 0.5rem;
+
+                .tetxcontent
+                {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 0.2rem;
+
+                    .Pname 
+                    {
+                        font-family: sg_regular;
+                        font-size: 1.5rem; 
+                    }
+                    .Pmaterial 
+                    {
+                        font-family: sg_regular;
+                        color: gray;
+                        font-size: 1.3rem; 
+                    }
+                    .Pprice 
+                    {
+                        font-family: s_medium;
+                        font-size: 1.2rem; 
+                    }
+                }
+                
+
+                .addcartbtn
+                {
+                    padding: 0.5rem 1rem;
+                    border: none;
+                    background-color: #0c1c33;
+                    color: white;
+                    border-radius: 0.5rem;
+                }
+                .addcartbtn:hover
+                {
+                    background-color: #111;
+                    cursor: pointer;
+                    scale: 0.95;
+                }
+            }
+        }
+
+    }
+
+
+
+
+
+@media (min-width: 1080px)
+{
+
+    
+
+    .MS-list
+    {
+
+        .product
+        {
+            gap: 1rem;
+
+            img 
+            {
+                width: 30rem;
+                border-radius: 1.5rem;
+            }
+
+            .content
+            {
+                flex-direction: row;
+                justify-content: space-around;
+
+                p 
+                {   
+                    font-family: sg_regular;
+                    font-size: 1.5rem; 
+                }
+
+                .addcartbtn
+                {
+                    font-size: 1.2rem;
+                }
+            }
+        }
+    }
+}

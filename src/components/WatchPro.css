@@ -1,0 +1,85 @@
+.MS-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  width: 100%;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding-top: 10rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding-bottom: 10rem;
+}
+.MS-list .product {
+  width: -moz-fit-content;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.MS-list .product img {
+  width: 11rem;
+  border-radius: 0.5rem;
+}
+.MS-list .product .content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+.MS-list .product .content .tetxcontent {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.MS-list .product .content .tetxcontent .Pname {
+  font-family: sg_regular;
+  font-size: 1.5rem;
+}
+.MS-list .product .content .tetxcontent .Pmaterial {
+  font-family: sg_regular;
+  color: gray;
+  font-size: 1.3rem;
+}
+.MS-list .product .content .tetxcontent .Pprice {
+  font-family: s_medium;
+  font-size: 1.2rem;
+}
+.MS-list .product .content .addcartbtn {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #0c1c33;
+  color: white;
+  border-radius: 0.5rem;
+}
+.MS-list .product .content .addcartbtn:hover {
+  background-color: #111;
+  cursor: pointer;
+  scale: 0.95;
+}
+
+@media (min-width: 1080px) {
+  .MS-list .product {
+    gap: 1rem;
+  }
+  .MS-list .product img {
+    width: 30rem;
+    border-radius: 1.5rem;
+  }
+  .MS-list .product .content {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .MS-list .product .content p {
+    font-family: sg_regular;
+    font-size: 1.5rem;
+  }
+  .MS-list .product .content .addcartbtn {
+    font-size: 1.2rem;
+  }
+}/*# sourceMappingURL=WatchPro.css.map */

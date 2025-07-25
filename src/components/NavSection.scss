@@ -1,0 +1,79 @@
+.NavSection
+{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .HomeLink
+    {
+        color: gray;
+        text-decoration: none;
+        font-family: s_regular;
+        font-size: clamp(2rem, 6vw, 4rem);
+    }
+    .HomeLink:hover
+    {
+        color: white; 
+        cursor: pointer;
+    }
+
+    .ProductLink
+    {
+        color: gray;
+        text-decoration: none;
+        font-family: s_regular;
+        font-size: clamp(2rem, 6vw, 4rem);
+
+    }
+    .ProductLink:hover
+    {
+        color: white; 
+        cursor: pointer;
+    }
+
+    .DetailLink
+    {
+        color: gray;
+        text-decoration: none;
+        font-family: s_regular;
+        font-size: clamp(2rem, 6vw, 4rem);
+
+    }
+    .DetailLink:hover
+    {
+        color: white; 
+        cursor: pointer;
+    }
+
+    .StoryLink
+    {
+        color: gray;
+        text-decoration: none;
+        font-family: s_regular;
+        font-size: clamp(2rem, 6vw, 4rem);
+
+    }
+    .StoryLink:hover
+    {
+        color: white; 
+        cursor: pointer;
+    }
+
+    .LoginLink
+    {
+        color: gray;
+        text-decoration: none;
+        font-family: s_regular;
+        font-size: clamp(2rem, 6vw, 4rem);
+
+    }
+    .LoginLink:hover
+    {
+        color: white; 
+        cursor: pointer;
+    }
+}

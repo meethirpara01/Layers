@@ -1,0 +1,204 @@
+.cart-page
+{
+    width: 100%;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+
+    .tourcarttitle
+    {
+        font-family: s_light;
+    }
+
+    .cart-items
+    {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 4rem;
+
+        .cart-item
+        {
+            width: fit-content;
+            display: flex;
+            gap: 1rem;
+
+            img 
+            {
+                width: 10rem;
+                border-radius: 0.4rem;
+            }
+
+            .details
+            {
+                width: fit-content;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                gap: 0.2rem;
+
+                .item-details
+                {
+                    font-family: s_medium;
+                    font-size: 1rem; 
+                    color:#0c1c33;
+                }
+                .item-price 
+                {
+                    font-family: s_medium;
+                    font-size: 1.1rem; 
+                }
+
+                .quantity-controls
+                {
+                    width: fit-content;
+                    display: flex;
+                    align-items: center;
+                    gap: 0.5rem;
+
+                    .qty-btn
+                    {
+                        padding: 0rem 0.5rem;
+                        font-size: 1.5rem;
+                        font-family: s_medium;
+                        background-color: #0c1c33;
+                        color: white;
+                        border: none;
+                        border-radius: 0.2rem;
+                        cursor: pointer;
+                    }
+                    .qty-btn:hover
+                    {
+                        background-color: black;
+                        scale: 1.055;
+                    }
+
+                    .quantity
+                    {
+                        font-size: 1.5rem;
+                    }
+                }
+
+                .fainaltbn
+                {
+                    width: fit-content;
+                    display: flex;
+                    align-items: center;
+                    gap: 0.5rem;
+
+                    .fbtn
+                    {
+                        margin-top: 0.5rem;
+                        padding: 0.5rem 1rem;
+                        font-size: 1.2rem;
+                        font-family: sg_regular;
+                        background-color: #0c1c33;
+                        color: white;
+                        border: none;
+                        border-radius: 0.2rem;
+                        cursor: pointer;
+                    }
+                    .fbtn:hover
+                    {
+                        background-color: black;
+                        scale: 1.055;
+                    }
+                }
+            } 
+        }
+
+        .ccbtn
+        {
+            padding: 0.5rem 1rem;
+            background-color: #0c1c33;
+            color: white;
+            font-family: s_light;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 0.2rem;
+            cursor: pointer;
+
+        }
+        .ccbtn:hover
+        {
+            background-color: black;
+            scale: 0.95;
+        }
+    }
+}
+
+
+
+@media (min-width: 1080px)
+{
+    .cart-page
+    {
+        gap: 5rem;
+
+        .tourcarttitle
+        {
+            font-family: s_medium;
+            font-size: 2rem;
+
+        }
+
+        .cart-items
+        {
+            width: 95%;
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            overflow: scroll;
+            align-items: center;
+            justify-content: center;
+            gap: 2rem;
+
+            .cart-item
+            {
+                gap: 2rem;
+
+                img 
+                {
+                    width: 20rem;
+                }
+
+                .details
+                {
+                    gap: 0.5rem;
+
+                    .item-details
+                    {
+                        font-size: 1.2rem; 
+                    }
+                    .item-price 
+                    {
+                        font-size: 1.5rem; 
+                    }
+
+                    .quantity-controls
+                    {
+                        .qty-btn
+                        {
+                            font-size: 1.8rem;
+                        }
+
+                        .quantity
+                        {
+                            font-size: 1.8rem;
+                        }
+                    }
+
+                    .fainaltbn
+                    {
+                        gap: 1rem;
+                    }
+                } 
+            }
+        }
+    }
+}

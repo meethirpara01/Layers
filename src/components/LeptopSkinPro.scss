@@ -1,0 +1,189 @@
+.LS-card
+{
+    width: 100%;
+    height: fit-content;
+    padding-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding-bottom: 10rem;
+
+    form
+    {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+
+        h2 
+        {
+            font-family: s_medium;
+            font-size: 1.5rem;
+        }
+
+        .inputform
+        {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+
+            select
+            {
+                padding: 0.7rem 0.5rem;
+                outline: none;
+                border: none;
+                border-bottom: 1px solid black;
+                border-bottom-left-radius: 2rem;
+                font-family: s_regular;
+            }
+        }
+
+        .submitbtn
+        {
+            padding: 0.5rem 1.5rem;
+            font-size: 1.2rem;
+            background-color: black;
+            color: white;
+            border-radius: 1rem;
+            border: none;
+            font-family: s_regular;
+        }
+        .submitbtn:hover
+        {
+            background-color: white;
+            color: black;
+            scale: 0.95;
+            border: 1px solid black;
+            cursor: pointer;
+        }
+    }
+
+    .LS-list
+    {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+
+        .product
+        {
+            width: fit-content;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+
+            img 
+            {
+                width: 11rem;
+                border-radius: 0.5rem;
+            }
+
+            .content
+            {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                gap: 0.5rem;
+                .tetxcontent
+                {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 0.2rem;
+
+                    .Pname 
+                    {
+                        font-family: sg_regular;
+                        font-size: 1.5rem; 
+                        color:#0c1c33;
+                    }
+                    .Pprice 
+                    {
+                        font-family: s_medium;
+                        font-size: 1.1rem; 
+                    }
+                }
+
+                .addcartbtn
+                {
+                    padding: 0.5rem 1rem;
+                    border: none;
+                    background-color: #0c1c33;
+                    color: white;
+                    border-radius: 0.5rem;
+                }
+                .addcartbtn:hover
+                {
+                    background-color: #111;
+                    cursor: pointer;
+                    scale: 0.95;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+@media (min-width: 1080px)
+{
+
+    .LS-card
+    {
+        padding-top: 11rem;
+        form
+        {
+            h2 
+            {
+                font-size: 1.8rem;
+            }
+
+            .inputform
+            {
+                select
+                {
+                    padding: 0.8rem 0.8rem;
+                    font-size: 1.2rem;
+                }
+            }
+        }
+
+        .LS-list
+        {
+
+            .product
+            {
+                gap: 1rem;
+
+                img 
+                {
+                    width: 35rem;
+                    border-radius: 1.5rem;
+                }
+
+                .content
+                {
+                    flex-direction: row;
+                    justify-content: space-around;
+
+                    p 
+                    {   
+                        font-family: sg_regular;
+                        font-size: 1.5rem; 
+                    }
+
+                    .addcartbtn
+                    {
+                        font-size: 1.2rem;
+                    }
+                }
+            }
+        }
+    }
+}

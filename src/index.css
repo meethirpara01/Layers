@@ -1,0 +1,52 @@
+@import './app.css';
+@import './components/Navbar.css';
+@import './components/NavSection.css';
+@import './pages//Home.css';
+@import './pages//product.css';
+@import './components/MobileSkinPro.css';
+@import './components/LeptopSkinPro.css';
+@import './components/WatchPro.css';
+@import './pages/Cart.css';
+@import './pages/Login.css';
+@import './PageNotFound.css';
+@import './pages/About.css';
+@font-face {
+  font-family: s_light;
+  src: url("../public/fonts/State_Wide_Rough_Light.ttf");
+}
+@font-face {
+  font-family: s_regular;
+  src: url("../public/fonts/StateWideSoft_Regular.ttf");
+}
+@font-face {
+  font-family: s_medium;
+  src: url("../public/fonts/StateWideSoft_Medium.ttf");
+}
+@font-face {
+  font-family: s_semibold;
+  src: url("../public/fonts/StateWide_Semi_Bold.ttf");
+}
+@font-face {
+  font-family: s_rbold;
+  src: url("../public/fonts/State_Wide_Rough_Semi_Bold.ttf");
+}
+@font-face {
+  font-family: sg_lightitalic;
+  src: url("../public/fonts/StateWide-LightItalic.ttf");
+}
+@font-face {
+  font-family: s_lightitalic;
+  src: url("../public/fonts/SymphonieGrotesque-Italic.otf");
+}
+@font-face {
+  font-family: sg_regular;
+  src: url("../public/fonts/SymphonieGrotesque-Regular.otf");
+}
+@font-face {
+  font-family: sg_medium;
+  src: url("../public/fonts/SymphonieGrotesque-Medium.otf");
+}
+@font-face {
+  font-family: sg_bold;
+  src: url("../public/fonts/SymphonieGrotesque-Bold.otf");
+}/*# sourceMappingURL=index.css.map */

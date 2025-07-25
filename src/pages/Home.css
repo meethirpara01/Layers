@@ -1,0 +1,525 @@
+.Homecontainer {
+  width: 100%;
+  padding-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.Homecontainer .herosection {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.Homecontainer .herosection .hero-image {
+  width: 90%;
+  aspect-ratio: 2/1;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  border-radius: 1rem;
+}
+.Homecontainer .herosection .textcontent {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.5rem;
+}
+.Homecontainer .herosection .textcontent .h2text {
+  font-family: s_medium;
+  font-size: 1.5rem;
+}
+.Homecontainer .herosection .textcontent .p_content p {
+  font-family: s_regular;
+  font-size: 1.2rem;
+}
+.Homecontainer .view_2 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0rem 1.5rem;
+}
+.Homecontainer .view_2 .textcontent .texth2 {
+  font-family: sg_medium;
+  font-size: 2rem;
+  color: gray;
+}
+.Homecontainer .view_2 .textcontent p {
+  font-family: sg_regular;
+  font-size: 1.2rem;
+}
+.Homecontainer .view_2 .imgcontent img {
+  width: 100%;
+  aspect-ratio: 1/1;
+}
+.Homecontainer .view_3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0rem 1.5rem;
+  gap: 2rem;
+}
+.Homecontainer .view_3 .imgcontent video {
+  width: 100%;
+  aspect-ratio: 1/1;
+  border-radius: 25%;
+}
+.Homecontainer .view_3 .textcontent .texth2 {
+  font-family: sg_medium;
+  font-size: 2rem;
+  color: gray;
+}
+.Homecontainer .view_3 .textcontent p {
+  font-family: sg_regular;
+  font-size: 1.2rem;
+}
+.Homecontainer .view_4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0rem 1.5rem;
+  gap: 2rem;
+}
+.Homecontainer .view_4 .imgcontent {
+  width: 100%;
+  display: flex;
+}
+.Homecontainer .view_4 .imgcontent video {
+  width: 35%;
+  aspect-ratio: 1/1;
+  border-radius: 25%;
+}
+.Homecontainer .view_4 .textcontent .texth2 {
+  font-family: sg_medium;
+  font-size: 2rem;
+  color: gray;
+}
+.Homecontainer .view_4 .textcontent p {
+  font-family: sg_regular;
+  font-size: 1.2rem;
+}
+.Homecontainer .view_5 {
+  width: 100%;
+  padding: 0rem 1.5rem;
+  gap: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.Homecontainer .view_5 .imgcontent1 {
+  width: 100%;
+  position: relative;
+  background-color: #0c1c33;
+  border-radius: 8%;
+}
+.Homecontainer .view_5 .imgcontent1 img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.Homecontainer .view_5 .imgcontent1 .textcontent1 {
+  position: absolute;
+  top: 5%;
+  left: 20%;
+}
+.Homecontainer .view_5 .imgcontent1 .textcontent1 .texth2 {
+  font-family: sg_medium;
+  font-size: 1.5rem;
+  color: white;
+}
+.Homecontainer .view_5 .imgcontent1 .textcontent1 p {
+  font-family: sg_regular;
+  font-size: 0.8rem;
+  color: white;
+}
+.Homecontainer .view_5 .imgcontent2 {
+  width: 100%;
+  position: relative;
+  border-radius: 8%;
+  overflow: hidden;
+}
+.Homecontainer .view_5 .imgcontent2 img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.Homecontainer .view_5 .imgcontent2 .textcontent1 {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+}
+.Homecontainer .view_5 .imgcontent2 .textcontent1 .texth2 {
+  font-family: sg_medium;
+  font-size: 1.5rem;
+  color: white;
+}
+.Homecontainer .view_5 .imgcontent2 .textcontent1 p {
+  font-family: sg_regular;
+  font-size: 0.8rem;
+  color: white;
+}
+.Homecontainer .view_6 {
+  width: 100%;
+  padding: 0rem 1.5rem;
+  padding-top: 0%;
+}
+.Homecontainer .view_6 .textcontentfor6 .texth2 {
+  font-family: sg_medium;
+  font-size: 1.5rem;
+}
+.Homecontainer .view_6 .textcontentfor6 p {
+  font-family: sg_regular;
+  font-size: 0.8rem;
+}
+.Homecontainer .view_6 .oneimgcontent img {
+  width: 100%;
+  border-radius: 1rem;
+}
+.Homecontainer .view_7 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #0c1c33;
+  padding-top: 4rem;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+.Homecontainer .view_7 .marquee {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.Homecontainer .view_7 .marquee .images {
+  display: flex;
+  animation: marquee 15s linear infinite both;
+}
+.Homecontainer .view_7 .marquee .images img {
+  width: 20rem;
+  aspect-ratio: 1/1;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.Homecontainer .view_8 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.Homecontainer .view_8 h2 {
+  font-family: sg_medium;
+  font-size: 2rem;
+}
+.Homecontainer .view_8 img {
+  width: 80%;
+}
+.Homecontainer .view_8 .buywatchbtn {
+  padding: 0.8rem 1rem;
+  border: 1px solid white;
+  border-radius: 2rem;
+  background-color: black;
+  color: white;
+  font-size: 1.2rem;
+}
+.Homecontainer .view_8 .buywatchbtn:hover {
+  background-color: #0c1c33;
+  color: white;
+  scale: 0.95;
+  cursor: pointer;
+}
+.Homecontainer .view_9 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+.Homecontainer .view_9 .producttext {
+  font-family: sg_medium;
+  font-size: 3rem;
+}
+.Homecontainer .view_9 .threeproducts {
+  width: 100%;
+  padding: 0rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  cursor: pointer;
+}
+.Homecontainer .view_9 .threeproducts .products {
+  width: 80%;
+  border-radius: 1rem;
+  position: relative;
+}
+.Homecontainer .view_9 .threeproducts .products .text {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+.Homecontainer .view_9 .threeproducts .products .text h2 {
+  font-family: sg_medium;
+  font-size: 2rem;
+}
+.Homecontainer .view_9 .threeproducts .products .text p {
+  font-family: sg_regular;
+  font-size: 1rem;
+}
+.Homecontainer .view_9 .threeproducts .products img {
+  width: 100%;
+  border: 1px solid #f0f0f0;
+  border-radius: 10%;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+@media (min-width: 1080px) {
+  .Homecontainer {
+    position: relative;
+  }
+  .Homecontainer .herosection {
+    position: relative;
+    perspective: 1000px;
+  }
+  .Homecontainer .herosection .hero-image {
+    width: 85%;
+  }
+  .Homecontainer .herosection .textcontent {
+    position: absolute;
+    top: 10%;
+    left: 12%;
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 2rem;
+  }
+  .Homecontainer .herosection .textcontent .h2text {
+    font-family: s_medium;
+    font-size: 5.5rem;
+  }
+  .Homecontainer .herosection .textcontent .p_content p {
+    font-family: s_regular;
+    font-size: 3rem;
+  }
+  .Homecontainer .view_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 10rem;
+    gap: 2rem;
+  }
+  .Homecontainer .view_2 .textcontent {
+    width: 50%;
+  }
+  .Homecontainer .view_2 .textcontent .texth2 {
+    font-family: sg_medium;
+    font-size: 5rem;
+    color: gray;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    transition: 0.8s;
+  }
+  .Homecontainer .view_2 .textcontent p {
+    font-family: sg_regular;
+    font-size: 2.5rem;
+  }
+  .Homecontainer .view_2 .imgcontent {
+    width: 50%;
+  }
+  .Homecontainer .view_2 .imgcontent img {
+    width: 100%;
+    aspect-ratio: 1/1;
+  }
+  .Homecontainer .view_3 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 10rem;
+    gap: 0.5rem;
+  }
+  .Homecontainer .view_3 .textcontent {
+    width: 50%;
+  }
+  .Homecontainer .view_3 .textcontent .texth2 {
+    font-family: sg_medium;
+    font-size: 5rem;
+    color: gray;
+  }
+  .Homecontainer .view_3 .textcontent p {
+    font-family: sg_regular;
+    font-size: 2.5rem;
+  }
+  .Homecontainer .view_3 .imgcontent {
+    width: 50%;
+  }
+  .Homecontainer .view_3 .imgcontent video {
+    width: 80%;
+    aspect-ratio: 1/1;
+    border-radius: 0%;
+  }
+  .Homecontainer .view_4 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 0rem 10rem;
+    padding-top: 4rem;
+    gap: 2rem;
+  }
+  .Homecontainer .view_4 .textcontent {
+    width: 50%;
+  }
+  .Homecontainer .view_4 .textcontent .texth2 {
+    font-family: sg_medium;
+    font-size: 5rem;
+    color: gray;
+  }
+  .Homecontainer .view_4 .textcontent p {
+    font-family: sg_regular;
+    font-size: 2.5rem;
+  }
+  .Homecontainer .view_4 .imgcontent {
+    width: 100%;
+    background-color: #f4f3ef;
+    padding: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    gap: 0%;
+  }
+  .Homecontainer .view_4 .imgcontent video {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 0%;
+  }
+  .Homecontainer .view_5 {
+    padding: 0rem 10rem;
+    padding-top: 4rem;
+    flex-direction: row;
+  }
+  .Homecontainer .view_5 .imgcontent1 {
+    width: 50%;
+    border-radius: 8%;
+  }
+  .Homecontainer .view_5 .imgcontent1 img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    -o-object-fit: contain;
+       object-fit: contain;
+  }
+  .Homecontainer .view_5 .imgcontent1 .textcontent1 {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+  }
+  .Homecontainer .view_5 .imgcontent1 .textcontent1 .texth2 {
+    font-size: 3rem;
+  }
+  .Homecontainer .view_5 .imgcontent1 .textcontent1 p {
+    font-size: 1rem;
+  }
+  .Homecontainer .view_5 .imgcontent2 {
+    width: 50%;
+  }
+  .Homecontainer .view_5 .imgcontent2 img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .Homecontainer .view_5 .imgcontent2 .textcontent1 {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+  }
+  .Homecontainer .view_5 .imgcontent2 .textcontent1 .texth2 {
+    font-size: 3rem;
+  }
+  .Homecontainer .view_5 .imgcontent2 .textcontent1 p {
+    font-size: 1rem;
+  }
+  .Homecontainer .view_6 {
+    padding: 0rem 10rem;
+    position: relative;
+  }
+  .Homecontainer .view_6 .textcontentfor6 {
+    position: absolute;
+    top: 10%;
+    left: 12%;
+  }
+  .Homecontainer .view_6 .textcontentfor6 .texth2 {
+    font-size: 4rem;
+  }
+  .Homecontainer .view_6 .textcontentfor6 p {
+    font-size: 1.5rem;
+  }
+  .Homecontainer .view_6 .oneimgcontent img {
+    border-radius: 5rem;
+  }
+  .Homecontainer .view_7 {
+    padding-top: 8rem;
+    border-top-left-radius: 3rem;
+    border-top-right-radius: 3rem;
+  }
+  .Homecontainer .view_7 .marquee .images {
+    display: flex;
+    animation: marquee 15s linear infinite both;
+  }
+  .Homecontainer .view_7 .marquee .images img {
+    width: 30rem;
+    aspect-ratio: 1/1;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .Homecontainer .view_8 {
+    gap: 2rem;
+  }
+  .Homecontainer .view_8 h2 {
+    font-size: 4rem;
+  }
+  .Homecontainer .view_8 img {
+    width: 45%;
+  }
+  .Homecontainer .view_8 .buywatchbtn {
+    font-size: 1.5rem;
+  }
+  .Homecontainer .view_9 .producttext {
+    font-size: 5rem;
+  }
+  .Homecontainer .view_9 .threeproducts {
+    padding: 0rem 10rem;
+    flex-direction: row;
+    gap: 3rem;
+  }
+  .Homecontainer .view_9 .threeproducts .products .text h2 {
+    font-size: 3rem;
+  }
+  .Homecontainer .view_9 .threeproducts .products .text p {
+    font-size: 1.5rem;
+  }
+}/*# sourceMappingURL=Home.css.map */

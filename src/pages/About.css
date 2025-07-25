@@ -1,0 +1,249 @@
+.flip-link {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  line-height: 0.75;
+}
+.flip-link span {
+  display: inline-block;
+}
+.flip-link .flip-bottom {
+  position: absolute;
+  inset: 0;
+}
+
+.about-section {
+  width: 100%;
+  padding-top: 12rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+.about-section .mainheading {
+  text-decoration: none;
+  color: #0c1c33;
+  font-family: sg_regular;
+  font-size: clamp(2.5rem, 5vw, 5rem);
+}
+.about-section .headingdescription {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  border-radius: 1rem;
+}
+.about-section .headingdescription .headingdescriptiontext {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #fff;
+  font-family: sg_regular;
+  font-size: clamp(2rem, 5vw, 4rem);
+}
+.about-section .view-2 {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  border-radius: 0.5rem;
+  gap: 1rem;
+}
+.about-section .view-2 .imagecontent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-section .view-2 .imagecontent img {
+  width: 80%;
+}
+.about-section .view-2 .textcontent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+.about-section .view-2 .textcontent .text {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-section .view-2 .textcontent .text .h2text {
+  color: #fff;
+  font-family: sg_regular;
+  font-size: clamp(1.5rem, 5vw, 4rem);
+}
+.about-section .view-3 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2rem;
+  border-radius: 0.5rem;
+  gap: 1rem;
+}
+.about-section .view-3 .imagecontent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-section .view-3 .imagecontent img {
+  width: 60%;
+}
+.about-section .view-3 .textcontent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+.about-section .view-3 .textcontent .text {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-section .view-3 .textcontent .text .h2text {
+  color: gray;
+  font-family: sg_regular;
+  text-align: center;
+  font-size: clamp(1.5rem, 5vw, 4rem);
+}
+.about-section .view-4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2rem;
+  border-radius: 0.5rem;
+  gap: 2rem;
+  padding-bottom: 2rem;
+}
+.about-section .view-4 .fimage {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-section .view-4 .fimage img {
+  width: 80%;
+}
+.about-section .view-4 .ftextcontent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.about-section .view-4 .ftextcontent .firsttextcontent {
+  width: 80%;
+  background-color: black;
+  padding: 2rem;
+}
+.about-section .view-4 .ftextcontent .firsttextcontent .fh2text {
+  color: white;
+  font-family: sg_regular;
+  text-align: center;
+  font-size: clamp(1.2rem, 5vw, 2.5rem);
+}
+.about-section .view-4 .ftextcontent .secoendtextcontent {
+  width: 80%;
+  background-color: #f2f1ec;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.about-section .view-4 .ftextcontent .secoendtextcontent .fh2text1 {
+  color: gray;
+  font-family: sg_regular;
+  text-align: start;
+  font-size: clamp(1.2rem, 5vw, 2.5rem);
+}
+.about-section .view-4 .ftextcontent .secoendtextcontent .fh2text2 {
+  color: gray;
+  font-family: sg_regular;
+  text-align: start;
+  font-size: clamp(1.2rem, 5vw, 2.5rem);
+}
+.about-section .view-4 .ftextcontent .secoendtextcontent .fname {
+  color: #2e3b66;
+  font-family: sg_regular;
+  text-align: start;
+  font-size: clamp(1.2rem, 5vw, 2.5rem);
+}
+
+@media (min-width: 1080px) {
+  .about-section {
+    padding-top: 18rem;
+    gap: 5rem;
+  }
+  .about-section .view-2 {
+    margin-top: 12rem;
+    padding-top: 8rem;
+    gap: 5rem;
+  }
+  .about-section .view-2 .imagecontent img {
+    width: 40%;
+  }
+  .about-section .view-3 {
+    padding-top: 8rem;
+    gap: 5rem;
+  }
+  .about-section .view-3 .imagecontent img {
+    width: 40%;
+  }
+  .about-section .view-4 {
+    flex-direction: row;
+    padding-left: 8rem;
+    padding-right: 8rem;
+  }
+  .about-section .view-4 .fimage {
+    width: 50%;
+  }
+  .about-section .view-4 .fimage img {
+    width: 90%;
+  }
+  .about-section .view-4 .ftextcontent {
+    width: 50%;
+  }
+  .about-section .view-4 .ftextcontent .firsttextcontent {
+    width: 90%;
+  }
+  .about-section .view-4 .ftextcontent .secoendtextcontent {
+    width: 90%;
+  }
+}/*# sourceMappingURL=About.css.map */

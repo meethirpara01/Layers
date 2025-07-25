@@ -1,0 +1,401 @@
+{
+  "mobileProduct": [
+    {
+      "id": 1,
+      "name": "Latte Bloom",
+      "price": 499,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_or_pro_max_Latte_bloom_4db835f1-c4a1-4540-9852-4880a2392798.png"
+    },
+    {
+      "id": 2,
+      "name": "Slow Summer",
+      "price": 559,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_or_pro_max_Slow_Summer_e0158d10-d6aa-43c2-beb7-d3c879de4f26.png"
+    },
+    {
+      "id": 3,
+      "name": "Frost Rover",
+      "price": 759,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_or_pro_max_Frost_Rover_f6711944-d4d6-4d86-8f19-a06261d59fcf.png"
+    },
+    {
+      "id": 4,
+      "name": "Mod Station",
+      "price": 459,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_or_pro_max_mod_station_e0f1543e-b801-4954-aca1-bc62cf9a9cd6.png"
+    },
+    {
+      "id": 5,
+      "name": "Nitron",
+      "price": 759,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_or_pro_max_Nitron_183dc912-5552-4458-bbcf-2ba64c4be87e.png"
+    },
+    {
+      "id": 6,
+      "name": "Cosmic Power",
+      "price": 739,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_Cosmic_Warrior_64236367-1158-4671-a3fc-07a104e9b66c.png"
+    },
+    {
+      "id": 7,
+      "name": "Canopy Cascade",
+      "price": 539,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_Canopy_Cascade.png"
+    },
+    {
+      "id": 8,
+      "name": "Space Blueprint",
+      "price": 642,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/iphone-14-pro-space-blueprint--placeholder-camera.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Spaceboy",
+      "price": 542,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/iphone-14-pro-spaceboy--back.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Shikara",
+      "price": 442,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_14_Pro_Shikara.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Chaos",
+      "price": 682,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/products/iphone-14-pro-chaos--back.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Before Sunset",
+      "price": 882,
+      "brand": "apple",
+      "model": "iPnone 14 Pro",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iphone-14-pro-before-sunset--back_f0d840e0-0383-489e-a737-5b94f553561f.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Latte Bloom",
+      "price": 499,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Latte_bloom_cb7dc9cd-d188-4c8f-b9f3-6e14fd5f4b6d.png"
+    },
+    {
+      "id": 14,
+      "name": "Slow Summer",
+      "price": 559,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Slow_Summer_adb52d57-74e4-4e82-9ec1-fae86513c745.png"
+    },
+    {
+      "id": 15,
+      "name": "Frost Rover",
+      "price": 759,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Frost_Rover_e05c1afc-7250-4c45-8f1f-45cfa36da958.png"
+    },
+    {
+      "id": 16,
+      "name": "Mod Station",
+      "price": 459,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_mod_station_e8a10da6-939f-4453-9dcb-9034f6c1b5d5.png"
+    },
+    {
+      "id": 17,
+      "name": "Nitron",
+      "price": 759,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Nitron_8a2198d0-f13a-48ec-877d-3ab13071da7a.png"
+    },
+    {
+      "id": 18,
+      "name": "Cosmic Power",
+      "price": 739,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Cosmic_Warrior_8b92e45e-5ddc-495f-8278-e37fa8dc783e.png"
+    },
+    {
+      "id": 19,
+      "name": "Canopy Cascade",
+      "price": 539,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Canopy_Cascade_c1203aff-9f51-415d-99a6-42faba5e0142.png"
+    },
+    {
+      "id": 20,
+      "name": "Space Blueprint",
+      "price": 642,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Space_Blueprint_c2720595-6056-4564-924b-1d0e6c27ded9.png"
+    },
+    {
+      "id": 21,
+      "name": "Spaceboy",
+      "price": 542,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Spaceboy_c0ca43f2-a7ad-4e94-a4cd-2a5efcb0a5ed.png"
+    },
+    {
+      "id": 22,
+      "name": "Shikara",
+      "price": 442,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Shikara_b9be6b92-c078-4464-8e69-77fb4c18e19c.png"
+    },
+    {
+      "id": 23,
+      "name": "Chaos",
+      "price": 682,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Chaos_928db97b-5653-4020-8523-6001081ace28.png"
+    },
+    {
+      "id": 24,
+      "name": "Before Sunset",
+      "price": 882,
+      "brand": "apple",
+      "model": "iPnone 16",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/iPhone_16_Hillside_Chase_0ef3816a-9da4-40af-81a9-a832087ed45c.png"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 101,
+      "name": "Latte Bloom",
+      "price": 499,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_Latte_bloom_c44d3276-6447-4344-a984-859e23e746a5.png"
+    },
+    {
+      "id": 102,
+      "name": "Slow Summer",
+      "price": 559,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_Slow_Summer_915a7ff3-9616-435a-b89b-2b041aff0d93.png"
+    },
+    {
+      "id": 103,
+      "name": "Frost Rover",
+      "price": 759,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S24_Plus_Frost_Rover_4da35e6e-0174-4b80-b921-8623b6267d36.png"
+    },
+    {
+      "id": 104,
+      "name": "Mod Station",
+      "price": 459,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_mod_station_f74e937b-3aea-4761-ae61-cceb26e0dcdc.png"
+    },
+    {
+      "id": 105,
+      "name": "Nitron",
+      "price": 759,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_Nitron_2aac1cd1-fd9b-40cc-84f1-dce89edc5697.png"
+    },
+    {
+      "id": 106,
+      "name": "Cosmic Power",
+      "price": 739,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Cosmic_Power_eda1e628-975f-42ac-a010-13e33b0fc3f9.png"
+    },
+    {
+      "id": 107,
+      "name": "Canopy Cascade",
+      "price": 539,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Canopy_Cascade_6a49977a-e3e5-4aa4-a1da-fc80fc69e987.png"
+    },
+    {
+      "id": 108,
+      "name": "Space Blueprint",
+      "price": 642,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Space_Blueprint_a6d01e9f-8f76-4846-b448-244fe18849b5.png"
+    },
+    {
+      "id": 109,
+      "name": "Spaceboy",
+      "price": 542,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Astrorainbow_8db36a70-89eb-4530-8150-9e9718b79780.png"
+    },
+    {
+      "id": 110,
+      "name": "Shikara",
+      "price": 442,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Shikara_c79a8081-c64a-469c-9ae4-3fc8d25718fe.png"
+    },
+    {
+      "id": 111,
+      "name": "Chaos",
+      "price": 682,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Chaos_b434f576-41c1-4cc1-99c0-46ec32afec9d.png"
+    },
+    {
+      "id": 112,
+      "name": "Before Sunset",
+      "price": 882,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Before_Sunset_6282dd7c-0041-4177-9e86-5baae275abfa.png"
+    },
+    {
+      "id": 113,
+      "name": "Latte Bloom",
+      "price": 499,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_Ultra_Latte_bloom_a4ec2338-7c7c-4627-be4e-c81c528dba4d.png"
+    },
+    {
+      "id": 114,
+      "name": "Slow Summer",
+      "price": 559,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_Ultra_Slow_Summer_c0167496-ba95-469d-bd5c-d5e175cda8b4.png"
+    },
+    {
+      "id": 115,
+      "name": "Frost Rover",
+      "price": 759,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S24_Ultra_Frost_Rover_997dc73a-d99b-4585-85f3-d077fe1867be.png"
+    },
+    {
+      "id": 116,
+      "name": "Mod Station",
+      "price": 459,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_Ultra_mod_station_8e85159b-900b-4781-a342-70da6045d2c0.png"
+    },
+    {
+      "id": 117,
+      "name": "Nitron",
+      "price": 759,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Galaxy_S25_Ultra_Nitron_e97e8d79-ebeb-42ae-950b-cdc59e872afe.png"
+    },
+    {
+      "id": 118,
+      "name": "Cosmic Power",
+      "price": 739,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Ultra_Cosmic_Power_33be3e8a-b8c6-4461-a016-605159281494.png"
+    },
+    {
+      "id": 119,
+      "name": "Canopy Cascade",
+      "price": 539,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Ultra_Canopy_Cascade_76b75ede-9232-48ef-b7ec-f86f2d28c815.png"
+    },
+    {
+      "id": 120,
+      "name": "Space Blueprint",
+      "price": 642,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Ultra_Space_Blueprint_0d2fb1d2-63b1-4cef-843f-30a1a8adc3f1.png"
+    },
+    {
+      "id": 121,
+      "name": "Spaceboy",
+      "price": 542,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Ultra_Spaceboy_15549c14-ed0b-46ee-900e-8e6d534e93a3.png"
+    },
+    {
+      "id": 122,
+      "name": "Shikara",
+      "price": 442,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Ultra_Shikara_265dbde4-ec9b-4884-82f1-63ba216f4d48.png"
+    },
+    {
+      "id": 123,
+      "name": "Chaos",
+      "price": 682,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Ultra_Chaos_f77d0561-a29e-4bf6-b041-230a64b832a9.png"
+    },
+    {
+      "id": 124,
+      "name": "Before Sunset",
+      "price": 882,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy S25 Ultra",
+      "image": "https://cdn.shopify.com/s/files/1/0602/9334/9613/files/Samsung_Galaxy_S25_Ultra_Before_Sunset_87a62186-6deb-460f-8ba8-03e9b44187c9.png"
+    }
+  ]
+
+
+  
+}

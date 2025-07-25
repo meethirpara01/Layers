@@ -36,8 +36,8 @@ Includes **Firebase authentication**, built with **React, Redux Toolkit, SCSS, a
 ### 👅 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/layers-shop-clone.git
-cd layers-shop-clone
+git clone https://github.com/meethirpara01/Layers
+cd layers
 ```
 
 ### 💼 Install dependencies
@@ -58,7 +58,7 @@ Your app will start at: [http://localhost:5173](http://localhost:5173)
 
 ## 🌐 Live Demo
 
-👉 [Add your deployed link here once you deploy]
+👉 [https://layers-j928.onrender.com/]
 
 ---
 
